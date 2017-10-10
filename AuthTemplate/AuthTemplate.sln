@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthTemplate", "AuthTemplate\AuthTemplate.csproj", "{33708649-27DF-4FCD-98F1-31BAACCEF42E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthTemplate", "AuthTemplate\AuthTemplate.csproj", "{BEE0B2F7-FAF1-40A6-9A27-8144888E974B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{33708649-27DF-4FCD-98F1-31BAACCEF42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33708649-27DF-4FCD-98F1-31BAACCEF42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33708649-27DF-4FCD-98F1-31BAACCEF42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33708649-27DF-4FCD-98F1-31BAACCEF42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE0B2F7-FAF1-40A6-9A27-8144888E974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE0B2F7-FAF1-40A6-9A27-8144888E974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE0B2F7-FAF1-40A6-9A27-8144888E974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE0B2F7-FAF1-40A6-9A27-8144888E974B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
